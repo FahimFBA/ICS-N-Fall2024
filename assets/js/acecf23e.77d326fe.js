@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkics_n_fall_2024=self.webpackChunkics_n_fall_2024||[]).push([[903],{1912:l=>{l.exports=JSON.parse('{"blogBasePath":"/ICS-N-Fall2024/blog","blogTitle":"Blog","authorsListPath":"/ICS-N-Fall2024/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkics_n_fall_2024=self.webpackChunkics_n_fall_2024||[]).push([[121],{8418:l=>{l.exports=JSON.parse('{"metadata":{"permalink":"/ICS-N-Fall2024/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
