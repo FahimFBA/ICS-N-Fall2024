@@ -24,11 +24,11 @@ The joining link is given **[here](https://chat.whatsapp.com/Gn19ezgEwR43LEmKbYC
 
 If you need any help, then you can directly reach out to me. I always try to be helpful towards you as a faculty, you all are my responsibility.
 
-## Feedback Form
+<!-- ## Feedback Form
 
 You will get a feedback form after each class, and you would need to fill that up. You should be completely honest in your feedback, and I won't even judge anyone for their feedback/comments. You can even scold me if you want there (I am serious!).
 
-Let's try to make this lab class as much enjoyable as we can. 
+Let's try to make this lab class as much enjoyable as we can.  -->
 
 Lastly, dear my **GenZ** students. Wishing you the best of luck. Congratulations on your amazing journey and career opportunity ahead.
 
