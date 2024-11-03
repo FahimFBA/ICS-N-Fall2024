@@ -3,33 +3,20 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - main  
-  workflow_dispatch:  
+      - main  # Trigger on pushes to the main branch
+  workflow_dispatch:  # Allow manual triggering of the workflow
 
 jobs:
-  deploy:
-    name: Deploy to GitHub Pages
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Setup Node.js
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-
-      - name: Get npm cache directory
-        id: npm-cache-dir
-        run: |
-          echo "::set-output name=dir::$(npm config get cache)"
-
-      - name: Cache dependencies
-        uses: actions/cache@v3
-        with:
-          path: ${{ steps.npm-cache-dir.outputs.dir }}
-          key: ${{ runner.os }}-npm-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-npm-
 
       - name: Install dependencies
         run: npm ci
@@ -37,10 +24,20 @@ jobs:
       - name: Build website
         run: npm run build
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload production-ready build folder
+        uses: actions/upload-pages-artifact@v1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build  # (default Docusaurus build output folder)
-          user_name: github-actions[bot]
-          user_email: github-actions[bot]@users.noreply.github.com
+          path: './build'  # Path to the Docusaurus build folder
+
+  deploy:
+    environment:
+      name: github-pages  # Deploy to GitHub Pages environment
+      url: ${{ steps.deployment.outputs.page_url }}
+      deployment_branch: gh-pages
+
+    needs: build  # Ensure the build job completes before running deployment
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
