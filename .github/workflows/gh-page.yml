@@ -30,11 +30,6 @@ jobs:
           path: './build'  # Path to the Docusaurus build folder
 
   deploy:
-    environment:
-      name: github-pages  # Deploy to GitHub Pages environment
-      url: ${{ steps.deployment.outputs.page_url }}
-      deployment_branch: gh-pages
-
     needs: build  # Ensure the build job completes before running deployment
     runs-on: ubuntu-latest
     steps:
