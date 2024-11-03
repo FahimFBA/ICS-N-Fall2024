@@ -10,6 +10,12 @@ Check all the class content. Let me know if you face any issue accessing them.
 
 **[Click Here!](https://docs.google.com/presentation/d/132XzZJ_TJoRApwlNeRBnoK9BT9De0u2cD9HEYxWs2kY/edit?usp=sharing)**
 
+Our university department has compiled some slides, and I am giving you their slide of Lab 01 [right here](https://docs.google.com/presentation/d/1NjAtFpHp57BFzuri7YTKGVy3ZdF35PAt/edit?usp=sharing&ouid=114893091947550138357&rtpof=true&sd=true)!
+
+You can read the university slide, and if you can't understand anything, then let me know in the next class. 
+
+Also, please make sure to remember me to cover any newer things that you have found in the university slide.
+
 
 ## Student Feedback on Lab 01
 
