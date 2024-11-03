@@ -18,13 +18,9 @@ I will update the counselling hour later. In the meantime, if you need me, then 
 
 A group chat has been created and till now, we have a CR (Class Representative) named **Md. Ali Mridha Omi**.
 
-> We are not going to use the WhatsApp group chat. I might think of another medium later. In that case, I will let you know about that later as well. However, if you want to keep yourselves (optional) connected with other classmates/friends, then obviously you can do that by yourselves where I won't need to be included.
+> If you can't see the earlier important messages for joining later, you can ask anyone there to repeat the earlier messages for you. Also, the website will stay updated. I will also add all the content in the LMS once it is available online.
 
-> Reasons:
-> - Privacy Concern.
-> - Newly joined members can't access the earlier messages.
-
-<!-- The joining link is given **[here]().** -->
+The joining link is given **[here](https://chat.whatsapp.com/Gn19ezgEwR43LEmKbYCcNg).**
 
 If you need any help, then you can directly reach out to me. I always try to be helpful towards you as a faculty, you all are my responsibility.
 
