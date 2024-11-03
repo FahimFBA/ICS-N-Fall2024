@@ -19,7 +19,9 @@ Please fill up **[this Google Form](https://forms.gle/UkoECT5FWvph9xxDA)**.
 
 **[Watch this amazing video](https://www.youtube.com/watch?v=e3fz3dqhN44)**. 
 
-You will not get any question from this. Therefore, simply watch the video just to know why it is a hyped thing nowadays and how it actually works. It seems nice to keep yourselves updated with the newer technologies everyday, right?
+You can also watch [this video](https://www.youtube.com/watch?v=-UrdExQW0cs) if you are interested to know more in details about Quantum Computers. Thanks goes to our CR for this! 👏
+
+You will not get any question from Quantum Computers/Computing. Therefore, simply watch the video just to know why it is a hyped thing nowadays and how it actually works. It seems nice to keep yourselves updated with the newer technologies everyday, right?
 
 ## What will you do as homework?
 
