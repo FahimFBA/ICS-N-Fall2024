@@ -26,4 +26,4 @@ Please fill up **[this Google Form](https://forms.gle/UkoECT5FWvph9xxDA)**.
 - If you are a Linux/MacOS user, and you are facing issues, then let me know.
 - Read the slides and try to understand everything. Do some research on internet and learn more about them if you get the time. If you have any question or difficulty in understanding anything then we are all here, right? 
 
-That's it for today! 😊
+That's it for today! 😊 
