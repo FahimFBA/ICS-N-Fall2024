@@ -6,9 +6,11 @@ on:
       - main
   workflow_dispatch:
 
-permissions:  # Add this section to your YAML file
+permissions:
   id-token: write  # Required for GitHub OIDC (OpenID Connect)
   contents: read  # Read access to the repository contents
+  pages: write  # Required for writing to the gh-pages branch
+  packages: write  # Optional: Required if you use GitHub packages
 
 jobs:
   build:
