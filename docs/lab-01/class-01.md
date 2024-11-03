@@ -17,9 +17,11 @@ Please fill up **[this Google Form](https://forms.gle/UkoECT5FWvph9xxDA)**.
 
 ## Quantum Computers, explained with MKBHD (By Cleo Abram)
 
-**[Watch this amazing video](https://www.youtube.com/watch?v=e3fz3dqhN44)**.
+**[Watch this amazing video](https://www.youtube.com/watch?v=e3fz3dqhN44)**. 
 
-## What will you do as Homework?
+You will not get any question from this. Therefore, simply watch the video just to know why it is a hyped thing nowadays and how it actually works. It seems nice to keep yourselves updated with the newer technologies everyday, right?
+
+## What will you do as homework?
 
 - [Install C/C++ compiler](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
 - [Setup VS Code for writing C codes](https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/)
