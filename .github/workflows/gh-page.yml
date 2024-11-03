@@ -3,8 +3,12 @@ name: Deploy Docusaurus to GitHub Pages
 on:
   push:
     branches:
-      - main  # Trigger on pushes to the main branch
-  workflow_dispatch:  # Allow manual triggering of the workflow
+      - main
+  workflow_dispatch:
+
+permissions:  # Add this section to your YAML file
+  id-token: write  # Required for GitHub OIDC (OpenID Connect)
+  contents: read  # Read access to the repository contents
 
 jobs:
   build:
@@ -30,7 +34,7 @@ jobs:
           path: './build'  # Path to the Docusaurus build folder
 
   deploy:
-    needs: build  # Ensure the build job completes before running deployment
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Deploy to GitHub Pages
