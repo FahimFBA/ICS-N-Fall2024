@@ -19,7 +19,7 @@ Please fill up **[this Google Form](https://forms.gle/UkoECT5FWvph9xxDA)**.
 
 **[Watch this amazing video](https://www.youtube.com/watch?v=e3fz3dqhN44)**.
 
-## What you will do as Home Work?
+## What will you do as Homework?
 
 - [Install C/C++ compiler](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
 - [Setup VS Code for writing C codes](https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/)
