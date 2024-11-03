@@ -17,6 +17,9 @@ Check all the class content. Let me know if you face any issue accessing them.
 
 ## What you will do as Home Work?
 
-Read the slides and try to understand everything. Do some research on internet and learn more about them if you get the time. If you have any question or difficulty in understanding anything then we are all here, right? 
+- [Install C/C++ compiler](https://www.freecodecamp.org/news/how-to-install-c-and-cpp-compiler-on-windows/)
+- [Setup VS Code for writing C codes](https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/)
+- If you are a Linux/MacOS user, and you are facing issues, then let me know.
+- Read the slides and try to understand everything. Do some research on internet and learn more about them if you get the time. If you have any question or difficulty in understanding anything then we are all here, right? 
 
 That's it for today! 😊
