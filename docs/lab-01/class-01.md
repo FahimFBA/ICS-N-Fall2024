@@ -11,6 +11,10 @@ Check all the class content. Let me know if you face any issue accessing them.
 **[Click Here!](https://docs.google.com/presentation/d/132XzZJ_TJoRApwlNeRBnoK9BT9De0u2cD9HEYxWs2kY/edit?usp=sharing)**
 
 
+## Student Feedback on Lab 01
+
+Please fill up **[this Google Form](https://forms.gle/UkoECT5FWvph9xxDA)**.
+
 ## Quantum Computers, explained with MKBHD (By Cleo Abram)
 
 **[Watch this amazing video](https://www.youtube.com/watch?v=e3fz3dqhN44)**.
