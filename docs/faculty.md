@@ -8,7 +8,7 @@ Name: Md. Fahim Bin Amin
 
 Designation: Instructor, United International University
 
-Room Number: 935 
+Room Number: 935 (A)
 
 Website: [fahimbinamin.com](https://www.fahimbinamin.com/)
 
