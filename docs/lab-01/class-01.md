@@ -17,9 +17,6 @@ You can read the university slide, and if you can't understand anything, then le
 Also, please make sure to remember me to cover any newer things that you have found in the university slide.
 
 
-<!-- ## Student Feedback on Lab 01
-
-Please fill up **[this Google Form](https://forms.gle/UkoECT5FWvph9xxDA)**. -->
 
 ## Quantum Computers, explained with MKBHD (By Cleo Abram)
 
