@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Faculty Introduction
+# Faculty Information
 
 Name: Md. Fahim Bin Amin
 

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# Instruction
+# Instructions
 
 Updated information: You can directly knock me via WhatsApp if you feel the urgent need. You already have my phone numbers. However, if it is something that you need to show me, then the better approach would be to utilize emails.
 

@@ -1,12 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Introduction to the Course
-
-What we are going to learn from this course?
-
-## Course Syllabus
+# Course Syllabus
 
 ![First page](/img/01.jpg)
 ![Second page](/img/02.jpg)
